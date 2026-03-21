@@ -1,0 +1,20 @@
+{
+  "name": "vitormvdTheme",
+  "displayName": "vitormvdTheme",
+  "description": "My personal VSCode theme..",
+  "version": "0.1.0",
+  "publisher": "vitormvd",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vitormvdTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitormvdTheme.json"
+      }
+    ]
+  }
+}
